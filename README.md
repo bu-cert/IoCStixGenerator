@@ -1,3 +1,6 @@
+# Created by Nozomi Networks Labs
+# --BUCERT addition-- CVEs are added using command line parameters
+
 # Overview
 Utility tool to auto-magically process IoC from a raw format to STIX.\
 The input file is a file containing a newline-separated list of indicators.
