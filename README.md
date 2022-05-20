@@ -1,4 +1,4 @@
-# Originally, created by Nozomi Networks Labs @ https://github.com/NozomiNetworks/stix-tools
+# Created by Nozomi Networks Labs @ https://github.com/NozomiNetworks/stix-tools
 # --BUCERT addition-- CVEs are added using command line parameters
 
 # Overview
